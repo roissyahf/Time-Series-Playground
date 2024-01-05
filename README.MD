@@ -16,4 +16,4 @@ This repository documents my journey exploring various techniques and models for
 * Fork the repository and build upon my work.
 * Open issues or pull requests to share your insights and contribute to the project.
 
-**Let's dive into the exciting world of time series! **
+**Let's dive into the exciting world of time series!**
